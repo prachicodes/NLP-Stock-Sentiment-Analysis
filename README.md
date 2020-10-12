@@ -1,8 +1,7 @@
 # NLP-Stock-Sentiment-Analysis
 
 Descripition: 
-
-1.The dataset is a combination of world news and stock price shifts in Kaggle
+1. The dataset is a combination of world news and stock price shifts in Kaggle
 2. There are 25 columns of top news headlines 
 3. Data Ranges from 2008 to 2016 and data from 2000 to 2008 was scraped from Yahoo finance
 4. Class 1-> Stock price increased 
